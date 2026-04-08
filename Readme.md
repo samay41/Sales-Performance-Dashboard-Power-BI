@@ -52,16 +52,7 @@ Sales-Performance-Dashboard/
 │ └── sales_dashboard.pbix
 │
 ├── 📂 Dataset/
-│ ├── Company Sales Data 2020.csv
-│ ├── Company Sales Data 2021.csv
-│ ├── Company Sales Data 2022.csv
-│ ├── Company Customer Lookup.csv
-│ ├── Company Product Lookup.csv
-│ ├── Company Product Categories Lookup.csv
-│ ├── Company Product Subcategories Lookup.csv
-│ ├── Company Returns Data.csv
-│ ├── Company Territory Lookup.csv
-│ └── Product Category Sales (Unpivot Demo).csv
+│ ├──Sales-Data
 │
 ├── 📸 Screenshots/
 │ ├── Model View.png
